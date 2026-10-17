@@ -1,8 +1,4 @@
 
 {
-  "functions": {
-    "api/free/bypass.js": {
-      "runtime": "nodejs24.x"
-    }
-  }
+  "version": 2
 }
